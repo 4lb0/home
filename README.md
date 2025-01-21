@@ -1,3 +1,3 @@
 # albo.ar home
 
-Custom link tree. One liner for performance.
+Custom link tree. Web design is my passion.
